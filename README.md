@@ -1,1 +1,1 @@
-Different orms of visualisations which can be used in tableau.
+Different forms of visualisations which can be used in tableau.
