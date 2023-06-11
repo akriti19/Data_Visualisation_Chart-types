@@ -1,1 +1,1 @@
-Different types of chart in tableau used for visualisation.
+Different orms of visualisations which can be used in tableau.
